@@ -1,5 +1,5 @@
 # soc-home-lab
-# SOC Home Lab
+
 
 A virtual Security Operations Center (SOC) lab built to practise alert triage:
 analysing security alerts and deciding whether they are true positives or false positives.
